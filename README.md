@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/https://telegra.ph/file/802f87a07963bf68b3ef9.jpg" alt="Yoon Se-ri Logo">
+  <img src="assets/https://i.ibb.co/ggDQ4wS/IMG-20211123-205904-954.jpg" alt="Yoon Se-ri Logo">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>

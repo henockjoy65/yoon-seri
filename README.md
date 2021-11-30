@@ -2,7 +2,7 @@
   <img src="assets/https://i.ibb.co/ggDQ4wS/IMG-20211123-205904-954.jpg" alt="Yoon Se-ri Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Yoon Se-ri Bot</b>
 </h1>
 
 
